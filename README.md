@@ -1,8 +1,10 @@
+# 첫번째 게시판 구현의 환경 설정
+
 ### 1. 다이나믹 웹 프로젝트 만들기
 * 주의 : web.xml 체크하기
-2. git 연동
+### 2. git 연동
 * .gitignore 파일 프로젝트 폴더에 저장
-* 	ㄴ 내용은 gitignore.io 사이트에서 작성
+	* 내용은 gitignore.io 사이트에서 작성
 (windows,eclipse,java,maven 입력)
 
 ### 3. 이클립스에 git 시작하기 (아래 명령어 위주로)
